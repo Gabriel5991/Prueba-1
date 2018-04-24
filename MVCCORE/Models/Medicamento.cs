@@ -36,6 +36,6 @@ namespace MVCCORE.Models
         public DateTime Fecha_Ingreso { get; set; }
 
         public int telef { get; set; }
-
+        public int telef2 { get; set; }
     }
 }
