@@ -21,5 +21,6 @@ namespace MVCCORE
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
                 .Build();
+        holaaa
     }
 }
