@@ -10,7 +10,7 @@ namespace MVCCORE.Models
     {
         public  int MedicamentoId { get; set; }
         //campo requerido con mensaje personalizado
-        [Required(ErrorMessage ="El nombre del medicamento es requerido")]
+        [Required(ErrorMessage ="El nombre del medicamento es requerido 555")]
         //mostrar
         [Display(Name ="Nombre de Medicamento")]
         //definir el largo de caracteres max y minimo y mensaje de error
